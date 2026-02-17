@@ -65,11 +65,11 @@ footer.innerHTML = `
                     <a href="write-for-us.html">Write For Us</a>
                 </li>
                 <li>
-                    <!-- Link to page with sources -->
-                    <a href="sources.html">Sources</a>
+                    <a href="#" >Privacy Policy</a>
                 </li>
                 <li>
-                    <a href="#" >Privacy Policy</a>
+                    <!-- call us number -->
+                    044 999 9999
                 </li>
             </ul>
         <!-- end of the Company links -->
