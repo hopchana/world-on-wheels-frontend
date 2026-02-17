@@ -69,7 +69,7 @@ footer.innerHTML = `
                 </li>
                 <li>
                     <!-- call us number -->
-                    044 999 9999
+                    <a href="+380449999999">044 999 9999</a>
                 </li>
             </ul>
         <!-- end of the Company links -->
